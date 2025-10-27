@@ -66,5 +66,18 @@ This approach helped simplify the development of this app by allowing for ease o
 ## Instructions
 
 ### 1. Clone the Repository
+Open Terminal:
+- git clone https://github.com/dangutierrez1017/FWC_Project.git
+- cd FWC_Project
 
+### 2. Create and Activate Virtual Environment
+- python -m venv venv
+- myenv\scripts\activate
 
+### 3. Install Dependencies
+- pip install -r requirements.txt
+
+### 4. Run the Application
+- python app.py
+- Open http://127.0.0.1:5000 on your browser
+- Enjoy!
