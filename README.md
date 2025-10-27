@@ -81,3 +81,10 @@ Open Terminal:
 - python app.py
 - Open http://127.0.0.1:5000 on your browser
 - Enjoy!
+
+---
+
+## Project Demo
+
+![Project Demo](assets/demo.png)
+![Project Demo2](assets/demo2.png)
