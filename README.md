@@ -72,7 +72,7 @@ Open Terminal:
 
 ### 2. Create and Activate Virtual Environment
 - python -m venv venv
-- myenv\scripts\activate
+- venv\scripts\activate
 
 ### 3. Install Dependencies
 - pip install -r requirements.txt
